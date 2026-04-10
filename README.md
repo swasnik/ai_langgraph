@@ -29,6 +29,10 @@ It leverages tools like OpenAI's GPT models, Tavily search results.
    ```
 3. The agent will process the query and generate a financial report.
 
+## LangSmith trace
+<img width="1351" height="843" alt="langsmith_trace" src="https://github.com/user-attachments/assets/af5885ad-8ebd-4e8c-9771-226a63bab842" />
+
+
 ## File Structure
 - **fin.py**: Main script containing the DAG workflow and agent logic.
 - **requirements.txt**: Lists all Python dependencies.
