@@ -1,0 +1,6 @@
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-openai
+langchain-experimental
